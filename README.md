@@ -1,5 +1,9 @@
 # Superpowers workshop
 
+<img src="qr-code.png" alt="QR code linking to github.com/presnick/superpowers-workshop" width="280">
+
+Scan to open this page, or go to **github.com/presnick/superpowers-workshop**.
+
 Superpowers is a free plugin for AI coding agents such as Claude Code and Codex. It changes how
 the agent works: before it builds anything, it asks you questions, writes a short spec for you to
 approve, and turns that into a step-by-step plan. While it builds, it tests and checks its own

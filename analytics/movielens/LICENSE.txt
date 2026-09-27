@@ -3,9 +3,9 @@ MovieLens ml-latest-small: license and citation
 
 The files in this folder (links.csv, movies.csv, ratings.csv, tags.csv and README.txt) are the
 MovieLens ml-latest-small dataset, from the GroupLens Research Group at the University of
-Minnesota. They are NOT covered by the MIT license in the parent folder, which applies to the
-assignment materials only. The dataset is redistributed here under the terms below, reproduced
-verbatim from README.txt.
+Minnesota. They are NOT covered by the MIT license at the root of this repository, which applies
+to the workshop materials only. The dataset is redistributed here under the terms below,
+reproduced verbatim from README.txt.
 
 
 Usage License

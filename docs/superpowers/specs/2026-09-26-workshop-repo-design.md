@@ -39,7 +39,7 @@ docs/superpowers/specs/       this file
    take, so this is steps rather than a prompt:
    - Claude Code: type `/plugin install superpowers@claude-plugins-official`, then start a new
      session.
-   - Codex app: Plugins in the sidebar, find Superpowers under Coding, click `+`.
+   - Codex app: Plugins in the sidebar or in strip under the message box, find Superpowers under Coding, click `+`.
    - Codex CLI: `/plugins`, search `superpowers`, Install Plugin.
 
    Then a **check prompt** to paste into a new session, "Let's make a react todo list". A working
